@@ -1,0 +1,7 @@
+apiVersion: crdboilerplate.k8s.io/v1alpha1
+kind: Thing
+metadata:
+  name: example-of-a-thing
+spec:
+  Name: a-thing
+  Content: something
