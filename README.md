@@ -1,5 +1,7 @@
 # k8s-crd-boilerplate
 
+> :warning: Kubernetes has evolved a lot since I wrote this boilerplate, these days I recommend you look in the directory of: [https://github.com/operator-framework/operator-sdk]()
+
 As I started writing Kubernetes CDR (Custom Resource Definitions) I found there
 was a lot of documentation on the details but very little on what was necessary
 or not to create a project.
